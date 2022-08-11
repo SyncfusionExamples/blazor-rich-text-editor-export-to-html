@@ -1,6 +1,6 @@
 # Blazor Rich Text Editor content export to HTML file
 
-You can export the RTE content to the HTML format using the [Syncfusion.DocIO](https://libraries.io/nuget/Syncfusion.DocIO.NET) libraries.
+You can export the RTE content to the HTML format using the [Syncfusion.DocIO](https://www.syncfusion.com/document-processing/word-framework/net) libraries.
 
 While clicking on the export button it makes call to the Export to HTML service.
 
